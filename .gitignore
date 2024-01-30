@@ -1,6 +1,5 @@
 .venv
 .vscode
 __pycahe__
-data.db
 *.__pycahe__
 .DS_Store
